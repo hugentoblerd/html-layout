@@ -1,0 +1,37 @@
+* {
+
+}
+
+.red {
+	width: 100%;
+	height: 200px;
+	background: red;
+}
+
+.blue.left {
+	background: blue;
+	width: 25%;
+	height: 450px;
+	float: left;
+}
+
+.blue.right {
+	background: blue;
+	width: 22%;
+	height: 450px;
+	float: right;
+}
+
+.yellow {
+	background: yellow;
+	width: 53%;
+	height: 325px;
+	float: left;
+}
+
+.green {
+	background: green;
+	width: 53%;
+	height: 125px;
+	float: left;
+}
