@@ -1,0 +1,70 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+div {
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.hi {
+	text-align: center;
+	font-size: 250px;
+	font-family: Helvetica;
+}
+
+.scroll {
+	text-align: center;
+	font-size: 50px;
+	font-family: Helvetica;
+}
+
+.box1 {
+	width: 50%;
+	height: 85%;
+	background-color: gray;
+	float: left;
+}
+
+.box2 {
+	width: 	50%;
+	height: 20%;
+	float: left;
+}
+
+.box3 {
+	width: 50%;
+	height: 20%;
+	background-color: black;
+	float: left;
+}
+
+.box4 {
+	width: 50%;
+	height: 20%;
+	background-color: red;
+	float: left;
+}
+
+.box5 {
+	width: 50%;
+	height: 20%;
+	background-color: blue;
+	float: left;
+}
+
+.box6 {
+	width: 50%;
+	height: 20%;
+	background-color: purple;
+	float: left;
+}
+
+.box7 {
+	width: 50%;
+	height: 20%;
+	margin-bottom: 25%;
+	background-color: gray;
+	float: left;
+}
