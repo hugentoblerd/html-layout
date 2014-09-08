@@ -1,0 +1,35 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+div {
+	display: inline-block;
+}
+
+.box1 {
+	width: 33%;
+	height: 100%;
+	background-color: blue;
+	float: left;
+}
+
+.box2 {
+	width: 33%;
+	height: 100%;
+	background-color: red;
+	float: left;
+}
+
+.box3 {
+	width: 34%;
+	height: 70%;
+	background-color: black;
+	float: left;
+}
+
+img {
+	float: right;
+	width: 34%;
+	height: 30%;
+}
